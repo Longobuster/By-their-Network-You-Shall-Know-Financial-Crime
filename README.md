@@ -4,7 +4,6 @@ The is the repo for paper: By their Network You Shall Know Financial Crime: Dete
 
 # Replication Package Info
 
-==================================================
 SYSTEM INFORMATION
 ==================================================
 OS:              Linux 6.6.113+
@@ -13,14 +12,12 @@ Processor:       x86_64
 Total RAM:       12.7 GB
 Available RAM:   10.4 GB
 
-==================================================
 CUDA INFORMATION
 ==================================================
 CUDA available:  False
 CUDA version:    None
 cuDNN version:   None
 
-==================================================
 INSTALLED PACKAGES
 ==================================================
 Package                                  Version
